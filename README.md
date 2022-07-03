@@ -1,2 +1,0 @@
-# Clicker
-Clicker tanki online
