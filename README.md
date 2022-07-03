@@ -33,6 +33,7 @@ GM_xmlhttpRequest({
 ```
 
 ## Binds
+* `Insert` - on/off
 * `1` - auto health
 * `2` - auto double armor
 * `3` - auto double damage
